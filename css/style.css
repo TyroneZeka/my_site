@@ -1,8 +1,6 @@
 /*
  * Author by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
+ * Also by Chamakuvangu wekwamudzviti
  */
 /* Fonts */
 @font-face {
@@ -158,11 +156,11 @@
         margin-left: 0; } }
     .top-banner__inner .top-banner__text p {
       margin-bottom: 42px;
-      color: #777; }
+      color: rgb(245 169 88); }
       @media (max-width: 768px) {
         .top-banner__inner .top-banner__text p {
           margin-bottom: 25px;
-          font-size: 14px; } }
+          font-size: 20px; } }
   .top-banner__inner .top-banner__h2 {
     font-size: 74px;
     letter-spacing: 3px;
@@ -203,8 +201,8 @@
       flex-direction: column; } }
 
 .brand-span {
-  font-size: 14px;
-  color: #c18f59; }
+  font-size: 22px;
+  color: #198754; }
 
 .brand-button {
   display: inline-block;
@@ -216,7 +214,7 @@
   border: 1px solid #fff;
   transition: 0.3s ease; }
   .brand-button:hover, .brand-button:focus {
-    color: #777; }
+    color: #198754; }
 
 .fh5co-about-me {
   position: relative;
@@ -355,7 +353,7 @@
     @media (max-width: 620px) {
       .about-me__text p {
         margin-bottom: 20px;
-        font-size: 14px;
+        font-size: 22px;
         line-height: 19px; } }
   .about-me__text h4 {
     margin-bottom: 7px;
@@ -566,7 +564,7 @@
           font-size: 20px;
           line-height: 24px; }
         .single-blog .single-blog__text p {
-          font-size: 14px;
+          font-size: 22px;
           line-height: 19px; } }
     @media (max-width: 420px) {
       .single-blog .single-blog__text {
@@ -577,7 +575,7 @@
           margin-bottom: 7px;
           font-size: 12px; }
         .single-blog .single-blog__text p {
-          font-size: 13px;
+          font-size: 22px;
           line-height: 16px; } }
   .single-blog:nth-child(even) h4 {
     color: #c18f59; }
@@ -641,7 +639,7 @@
     line-height: 24px; }
     @media (max-width: 620px) {
       .fh5co-quotes p {
-        font-size: 14px;
+        font-size: 22px;
         line-height: 19px; } }
   .fh5co-quotes img {
     margin: 0 auto 5px; }
@@ -855,5 +853,5 @@
       flex-direction: column;
       align-items: center; }
       .footer-bottom-inner p {
-        font-size: 14px;
+        font-size: 18px;
         margin-bottom: 20px; } }
